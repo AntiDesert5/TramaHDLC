@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TramaHDLC</string>
+    <string name="IngMens">Ingrese mensaje a codificar</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="Direccion">Ingrese Direccion en binario</string>
+    <string name="Control">Ingrese Control en binario</string>
+    <string name="DeteccionError">Ingrese Deteccion de errores en binario</string>
+</resources>
